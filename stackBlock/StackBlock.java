@@ -1,5 +1,5 @@
 /*
-    @author Reiden Rufin 22986337
+ * @author Spelljinxer
  */
 
 import CITS2200.Stack;

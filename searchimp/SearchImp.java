@@ -1,6 +1,5 @@
-/**
- * @author Reiden Rufin
- * @studentNumber 22986337
+/*
+ * @author Spelljinxer
  */
 
 import CITS2200.Graph;

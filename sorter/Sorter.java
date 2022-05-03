@@ -1,7 +1,7 @@
 import CITS2200.Sort;
 
 /*
-    @author Reiden Rufin | 22986337
+ * @author Spelljinxer
  */
 
 /**
